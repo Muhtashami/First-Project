@@ -1,2 +1,1 @@
-# First-Project
-My First Assignment 
+About My First Project on Github 
